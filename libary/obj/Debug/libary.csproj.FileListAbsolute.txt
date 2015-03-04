@@ -1,0 +1,9 @@
+C:\Users\Thomas\Dropbox\projects\lib\libary\libary\bin\Debug\libary.exe.config
+C:\Users\Thomas\Dropbox\projects\lib\libary\libary\obj\Debug\libary.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Dropbox\projects\lib\libary\libary\obj\Debug\libary.Form1.resources
+C:\Users\Thomas\Dropbox\projects\lib\libary\libary\obj\Debug\libary.Properties.Resources.resources
+C:\Users\Thomas\Dropbox\projects\lib\libary\libary\obj\Debug\libary.csproj.GenerateResource.Cache
+C:\Users\Thomas\Dropbox\projects\lib\libary\libary\bin\Debug\libary.exe
+C:\Users\Thomas\Dropbox\projects\lib\libary\libary\bin\Debug\libary.pdb
+C:\Users\Thomas\Dropbox\projects\lib\libary\libary\obj\Debug\libary.exe
+C:\Users\Thomas\Dropbox\projects\lib\libary\libary\obj\Debug\libary.pdb
